@@ -1,0 +1,2 @@
+清华源：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pkgname
+在后面，pkgname改为包名

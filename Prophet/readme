@@ -1,0 +1,7 @@
+# 2022/9/9
+## 安装时间序列预测神器-Prophet
+## 如何安装Prophet
+### 首先，要安装包，fbprophet包依赖于pystan。由于包的安装有很多依赖，因此强烈建议用conda装。
+
+#### conda install pystan
+#### pip install fbprophet
